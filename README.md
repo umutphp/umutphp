@@ -3,4 +3,4 @@
 
 ### My Recent Updates
 <!-- START gadpp -->
-- umutphp/github-action-dynamic-profile-page, [refs/tags/v1@2be386bcefbe4f84418827c1f0bbc721edf7c403](https://github.com/umutphp/github-action-dynamic-profile-page/commit/2be386bcefbe4f84418827c1f0bbc721edf7c403)
+- umutphp/github-action-dynamic-profile-page, [refs/heads/master@647fe3680087dfd43d932145a8351edcccc6df02](https://github.com/umutphp/github-action-dynamic-profile-page/commit/647fe3680087dfd43d932145a8351edcccc6df02)
