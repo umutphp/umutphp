@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 ### My Recent Updates
 <!-- START gadpp -->
+- [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page), [](https://github.com/umutphp/github-action-dynamic-profile-page/commit/674b1ed7c76f34ed8ea92b0c3c257a4bfaad51c1)
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page), [6b1f5ce0e833614d9e6fbf8fbfcf3d62ecae52d3](https://github.com/umutphp/github-action-dynamic-profile-page/commit/6b1f5ce0e833614d9e6fbf8fbfcf3d62ecae52d3)
 
 - [umutphp/github-action-dynamic-profile-page](https://github.com/umutphp/github-action-dynamic-profile-page)
