@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- START gadpp -->
+- https://github.com/umutphp/github-action-dynamic-profile-page
+
 https://github.com/umutphp/github-action-dynamic-profile-page
 
 https://github.com/umutphp/github-action-dynamic-profile-page
