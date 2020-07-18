@@ -1,9 +1,8 @@
-### Hi there 👋
-I spent 18 years pursuing a career on software development including e-commerce sites, content management systems, product information management systems, dating sites, learning management systems and corporate multi-layer web applications. In the early stages of my career, I involved in every steps of the software development cycle. Then, I focused on the software design and implementation.
+## Hi 👋, 
+I'm Umut Işık, I'm a software engineer 👨‍💻 who is passionate about web technologies and open source.
 
-Currently, I am involved in building and improving teams to create better solutions for Sony from the recruitment steps to the performance reviews. I also participate in the discussions and solutions of the software projects that my teams are responsible for.
-
-My technology stack is totally based on open source technologies because I totally agree that the open source software model encourages freedom, collaboration and creativity. 
+- 🔭 I’m currently working at Sony
+- 🌱 I’m currently trying to learn Kubernetes
 
 ### My Recent Commits
 <!-- START gadpp -->
