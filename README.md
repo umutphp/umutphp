@@ -3,7 +3,16 @@ I'm Umut Işık, I'm a software engineer 👨‍💻 who is passionate about web
 
 - 🔭 I’m currently working at Sony
 - 🌱 I’m currently trying to learn Kubernetes
-
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <p align="center">
+    <a href="https://twitter.com/umutphp" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/isikumut/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:umutphp@gmail.com.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://umuts.info" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+</p>
 ### My Recent Commits
 <!-- START gadpp -->
 - umutphp/hacker-laws-tr, [refs/heads/master@3a48bba87ffbc777dc63960946f136542a519d87](https://github.com/umutphp/hacker-laws-tr/commit/3a48bba87ffbc777dc63960946f136542a519d87)
