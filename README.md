@@ -3,6 +3,7 @@ I'm Umut Işık, I'm a software engineer 👨‍💻 who is passionate about web
 
 - 🔭 I’m currently working at Sony
 - 🌱 I’m currently trying to learn Kubernetes
+
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
@@ -13,6 +14,7 @@ I'm Umut Işık, I'm a software engineer 👨‍💻 who is passionate about web
     <a href="https://umuts.info" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 </p>
+<hr>
 
 ### My Recent Commits
 <!-- START gadpp -->
