@@ -8,10 +8,10 @@ I'm Umut Işık, I'm a software engineer 👨‍💻 who is passionate about web
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
-    <a href="https://twitter.com/umutphp" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/isikumut/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:umutphp@gmail.com.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://umuts.info" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://twitter.com/umutphp" alt="Twitter"><img src="https://raw.githubusercontent.com/umutphp/umutphp/master/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/isikumut/" alt="Linkedin"><img src="https://raw.githubusercontent.com/umutphp/umutphp/master/linkedin-fill.svg"></a>
+    <a href="mailto:umutphp@gmail.com.com" alt="Contact me"><img src="https://raw.githubusercontent.com/umutphp/umutphp/master/mail-fill.svg"></a>
+    <a href="https://umuts.info" alt="My site"><img src="https://raw.githubusercontent.com/umutphp/umutphp/master/external-link-line.svg"></a>
   </p>
 </p>
 <hr>
