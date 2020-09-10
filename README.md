@@ -18,7 +18,7 @@ I'm Umut Işık, I'm a software engineer 👨‍💻 who is passionate about web
 
 ### My Recent Commits
 <!-- START gadpp -->
-- umutphp/awesome-cli, [refs/heads/master@d01dc22247a359b05e93fa2aa44a2ecbfa38cf5d](https://github.com/umutphp/awesome-cli/commit/d01dc22247a359b05e93fa2aa44a2ecbfa38cf5d)
+- umutphp/awesome-cli, [refs/heads/master@777eb62e837b4ec24e04148d2a5768660caa1e7b](https://github.com/umutphp/awesome-cli/commit/777eb62e837b4ec24e04148d2a5768660caa1e7b)
 - umutphp/hacker-laws-tr, [refs/heads/master@13b3c5052e7395afa776fb46b048421317433434](https://github.com/umutphp/hacker-laws-tr/commit/13b3c5052e7395afa776fb46b048421317433434)
 - umutphp/github-action-dynamic-profile-page, [refs/heads/master@b65308d10734932c9cb2ed72b851aee3ff20da4e](https://github.com/umutphp/github-action-dynamic-profile-page/commit/b65308d10734932c9cb2ed72b851aee3ff20da4e)
 - umutphp/opensource.guide, [refs/heads/master@9eafde6453ff6fddbdb2e36c790120edf51bda90](https://github.com/umutphp/opensource.guide/commit/9eafde6453ff6fddbdb2e36c790120edf51bda90)
