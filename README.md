@@ -1,8 +1,8 @@
 ## Hi 👋, 
 I'm Umut Işık, I'm a software engineer 👨‍💻 who is passionate about web technologies and open source.
 
-- 🔭 I’m currently working at Sony
-- 🌱 I’m currently trying to learn Kubernetes
+- 🔭 I’m currently working at [SmartupNetwork](https://smartup.network/)
+- 🌱 I’m currently trying to learn ...
 
 <hr>
 <p align="center">
