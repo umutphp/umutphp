@@ -4,6 +4,20 @@ I'm Umut Işık, I'm a software engineer 👨‍💻 who is passionate about web
 - 🔭 I’m currently working at [SmartupNetwork](https://smartup.network/)
 - 🌱 I’m currently trying to learn ...
 
+Joined Github **7** years ago.
+
+Since then I pushed **2167** commits, opened **132** issues, submitted **114** pull requests, received **209** stars across **28** personal projects and contributed to **26** public repositories.
+
+Most used languages across my projects:
+
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B164.8%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B124%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B110.4%25)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B10.1%25)
+![Dockerfile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23384d54&message=Dockerfile%EF%B8%B10.1%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.1%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
+
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
@@ -16,11 +30,4 @@ I'm Umut Işık, I'm a software engineer 👨‍💻 who is passionate about web
 </p>
 <hr>
 
-### My Recent Commits
-<!-- START gadpp -->
-- umutphp/famous-bugs, [refs/heads/master@615b7493eb8dc9991ae7c971d8dba15e68dab516](https://github.com/umutphp/famous-bugs/commit/615b7493eb8dc9991ae7c971d8dba15e68dab516)
-- umutphp/awesome-cli, [refs/tags/v0.7.0@7be5bd9b8d6931cdf850b99de3ae7451cc3a6eb1](https://github.com/umutphp/awesome-cli/commit/7be5bd9b8d6931cdf850b99de3ae7451cc3a6eb1)
-- umutphp/hacker-laws-tr, [refs/heads/master@9800546f9212c52fee32d8dc6bad491dbed66999](https://github.com/umutphp/hacker-laws-tr/commit/9800546f9212c52fee32d8dc6bad491dbed66999)
-- umutphp/github-action-dynamic-profile-page, [refs/heads/master@2a71a96be7f1a8deb423cdda3f24161fdb00ce66](https://github.com/umutphp/github-action-dynamic-profile-page/commit/2a71a96be7f1a8deb423cdda3f24161fdb00ce66)
-- umutphp/opensource.guide, [refs/heads/master@9eafde6453ff6fddbdb2e36c790120edf51bda90](https://github.com/umutphp/opensource.guide/commit/9eafde6453ff6fddbdb2e36c790120edf51bda90)
-- umutphp/github-stats, [refs/heads/master@a536d5ccf2f82e59676a1e648ac9f830e09adec9](https://github.com/umutphp/github-stats/commit/a536d5ccf2f82e59676a1e648ac9f830e09adec9)
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
