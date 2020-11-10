@@ -6,7 +6,7 @@ I'm Umut Işık, I'm a software engineer 👨‍💻 who is passionate about web
 
 Joined Github **7** years ago.
 
-Since then I pushed **2167** commits, opened **133** issues, submitted **114** pull requests, received **209** stars across **28** personal projects and contributed to **27** public repositories.
+Since then I pushed **2168** commits, opened **133** issues, submitted **115** pull requests, received **209** stars across **28** personal projects and contributed to **27** public repositories.
 
 Most used languages across my projects:
 
