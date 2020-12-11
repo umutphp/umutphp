@@ -1,7 +1,7 @@
 ## Hi 👋, 
 I'm Umut Işık, a software engineer 👨‍💻 who is passionate about web technologies and open source. I’m currently working at [SmartupNetwork](https://smartup.network/)
 
-Joined Github **7** years ago. Since then I pushed **2321** commits, opened **136** issues, submitted **139** pull requests, received **602** stars across **17** personal projects and contributed to **28** public repositories.
+Joined Github **7** years ago. Since then I pushed **2322** commits, opened **136** issues, submitted **140** pull requests, received **605** stars across **17** personal projects and contributed to **28** public repositories.
 
 <hr />
 <p align="center">
