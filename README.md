@@ -11,5 +11,5 @@ Joined Github **8** years ago. Since then I pushed **2553** commits, opened **14
     <a href="https://umuts.info" alt="My site"><img src="https://raw.githubusercontent.com/umutphp/umutphp/master/external-link-line.svg"></a>
 </p>
 <hr />
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=umutphp.umutphp)
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
