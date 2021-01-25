@@ -3,6 +3,8 @@ I'm Umut Işık, a software engineer 👨‍💻 who is passionate about web tec
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=umutphp.umutphp)
+
 <hr />
 <p align="center">
     <a href="https://twitter.com/umutphp" alt="Twitter"><img src="https://raw.githubusercontent.com/umutphp/umutphp/master/twitter-fill.svg"></a>
