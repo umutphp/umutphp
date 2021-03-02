@@ -5,4 +5,6 @@ Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=umutphp.umutphp)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutphp&show_icons=true&theme=dark)
+
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
