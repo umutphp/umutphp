@@ -1,5 +1,5 @@
 ## Hi 👋, 
-I'm Umut Işık, a software engineer 👨‍💻 who is passionate about web technologies and open source. I’m currently working as Engineering Manager at [Intenseye](https://www.intenseye.com/).
+I'm Umut Işık, a software engineer 👨‍💻 who is passionate about web technologies and open source. I’m currently working as Engineering Manager at [Intenseye](https://github.com/intenseye).
 
 <details>
   <summary>More...</summary>
