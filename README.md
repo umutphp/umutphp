@@ -8,3 +8,5 @@ I'm Umut Işık, a software engineer 👨‍💻 who is passionate about web tec
   <br />
   <img src="https://visitor-badge.glitch.me/badge?page_id=umutphp.umutphp" />
 </details>
+
+<!-- START gadpp -->
